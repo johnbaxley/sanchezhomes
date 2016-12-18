@@ -1,0 +1,24 @@
+.col-1, .col-2, .col-3, .col-4{ float:left}
+/*======= width =======*/
+.main {	margin: 0 auto;	position: relative;	width: 993px; }
+
+
+/*======= header =======*/
+header {height:161px;  background:url(../images/top.gif) top center repeat-x}
+
+/*======= index.html =======*/
+#page1 .col-1{ width:331px; margin-right:0}
+/*======= index-1.html =======*/
+#page2 .col-1{ width:320px; margin-right:0}
+#page2 .col-2{ width:270px; margin-right:0}
+/*======= index-2.html =======*/
+#page3 .col-1{ width:320px; margin-right:0}
+#page3 .col-2{ width:270px; margin-right:0}
+#page3 .col-3{ width:331px; margin-right:0}
+/*======= index-3.html =======*/
+#page4 .col-1{ width:230px; margin-right:50px}
+#page4 .col-2{ width:671px; margin-right:0}
+#page4 .col-2 .col-1{ width:324px; margin-right:23px}
+#page4 .col-2 .col-2{ width:324px; margin-right:0}
+#page4 .col-3{ width:445px; margin-right:45px}
+#page4 .col-4{ width:445px; margin-right:0}
